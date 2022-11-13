@@ -100,10 +100,10 @@ yay pocsuite3
 
 ###
 
-Or click [here](https://github.com/knownsec/pocsuite3/archive/master.zip) to download the latest source zip package and extract
+Or click [here](https://github.com/trhacknon/pocsuite3/archive/master.zip) to download the latest source zip package and extract
 
 ``` bash
-wget https://github.com/knownsec/pocsuite3/archive/master.zip
+wget https://github.com/trhacknon/pocsuite3/archive/master.zip
 unzip master.zip
 cd pocsuite3-master
 pip3 install -r requirements.txt
